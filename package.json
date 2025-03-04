@@ -1,0 +1,26 @@
+{
+  "name": "wpp",
+  "version": "1.0.0",
+  "bin": "main.js",
+  "type": "module",
+  "scripts": {
+    "start": "node ./main.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "pkg": {
+    "assets": [
+      "node_modules/puppeteer/.local-chromium/**/*"
+    ]
+  },
+  "dependencies": {
+    "qrcode-terminal": "^0.12.0",
+    "whatsapp-web.js": "^1.26.0",
+    "xlsx": "^0.18.5"
+  },
+  "devDependencies": {
+    "pkg": "^5.8.1"
+  }
+}
