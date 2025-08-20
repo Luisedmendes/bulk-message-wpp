@@ -48,7 +48,7 @@ Colunas esperadas:
 
    ```bash
    npm install
-   ```
+````
 
 3. Adicione o arquivo `CONTPREV.xlsx` conforme descrito acima.
 
@@ -56,7 +56,7 @@ Colunas esperadas:
 
    ```bash
    npm run start
-   ```
+````
 
 5. Escaneie o QR Code que aparecer no terminal com o WhatsApp do celular.
 
@@ -70,7 +70,7 @@ Caso queira gerar um **binário executável** (Linux, Windows ou Mac) com o [`pk
 
 ```bash
 npx pkg .
-```
+````
 
 Isso criará o executável na pasta do projeto.
 
