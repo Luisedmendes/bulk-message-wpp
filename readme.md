@@ -1,4 +1,3 @@
-
 # 📲 WhatsApp Sender
 
 Um projeto simples em **Node.js (JavaScript puro)** para envio automático de mensagens no **WhatsApp**.  
@@ -42,42 +41,3 @@ Colunas esperadas:
    ```bash
    git clone https://github.com/seu-usuario/seu-repo.git
    cd seu-repo
-````
-
-2. Instale as dependências:
-
-   ```bash
-   npm install
-````
-
-3. Adicione o arquivo `CONTPREV.xlsx` conforme descrito acima.
-
-4. Inicie o projeto:
-
-   ```bash
-   npm run start
-````
-
-5. Escaneie o QR Code que aparecer no terminal com o WhatsApp do celular.
-
-6. O bot enviará automaticamente as mensagens da planilha.
-
----
-
-## 📦 Empacotar (opcional)
-
-Caso queira gerar um **binário executável** (Linux, Windows ou Mac) com o [`pkg`](https://github.com/vercel/pkg):
-
-```bash
-npx pkg .
-````
-
-Isso criará o executável na pasta do projeto.
-
----
-
-## ⚠️ Aviso
-
-Este projeto é apenas para **fins educacionais**.
-Use com responsabilidade para evitar **spam** ou bloqueio de conta no WhatsApp.
-
