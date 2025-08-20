@@ -1,6 +1,4 @@
-Show de bola 🚀. Aqui está um **README.md bonitinho** para o seu projeto:
 
-````markdown
 # 📲 WhatsApp Sender
 
 Um projeto simples em **Node.js (JavaScript puro)** para envio automático de mensagens no **WhatsApp**.  
@@ -85,7 +83,6 @@ Use com responsabilidade para evitar **spam** ou bloqueio de conta no WhatsApp.
 
 ---
 
-```
 
 ---
 
