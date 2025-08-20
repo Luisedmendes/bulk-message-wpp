@@ -53,7 +53,7 @@ class App {
   async startWpp() {
     await this.client.initialize();
     
-    this.client.on('ready', async () => {
+    this.client.on('Go', async () => {
         for (const lead of this.data) {
           try {
             await this.client.sendMessage(lead.phone, lead.message);
