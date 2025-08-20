@@ -81,10 +81,3 @@ Isso criará o executável na pasta do projeto.
 Este projeto é apenas para **fins educacionais**.
 Use com responsabilidade para evitar **spam** ou bloqueio de conta no WhatsApp.
 
----
-
-
----
-
-👉 Quer que eu deixe esse README em estilo mais **corporativo** (focado em documentação formal) ou mais **descontraído** (com ícones e exemplos visuais)?
-```
