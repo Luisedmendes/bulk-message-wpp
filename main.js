@@ -59,7 +59,7 @@ class App {
             await this.client.sendMessage(lead.phone, lead.message);
             console.log(`Mensagem enviada com sucesso para ${lead.phone}`);
           } catch (error) {
-            console.error(`Erro ao enviar para ${lead}:`, error);
+            console.error(`bom dia ${lead}:`, error);
           }
         }
     });
